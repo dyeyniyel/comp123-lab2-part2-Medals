@@ -1,3 +1,5 @@
+You will practice using Properties and iterating a list.
+
 ![image](https://github.com/dyeyniyel/comp123-lab2-part2-Medals/assets/158533198/9e4409ee-edae-48fd-88db-d681284cd628)
 
 ![image](https://github.com/dyeyniyel/comp123-lab2-part2-Medals/assets/158533198/744fea6e-1a9b-40b3-957d-d3431c0aab2d)
